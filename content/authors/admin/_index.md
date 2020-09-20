@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sheriff Ola
+title: **Sheriff Ola**
 
 # Username (this should match the folder name)
 authors:
@@ -51,7 +51,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/sola29/
 - icon: orcid
-  icon_pack: ai
+  icon_pack: fab
   link: https://orcid.org/0000-0002-8953-3318
 - icon: github
   icon_pack: fab
