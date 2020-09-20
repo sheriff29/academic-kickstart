@@ -50,17 +50,17 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sola29/
-- icon: google-scholar
+- icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-8953-3318
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sheriff29
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+icon: cv
+icon_pack: ai
+link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
