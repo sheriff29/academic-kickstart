@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sheriff Ola
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Forest Information Professional
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of British Columbia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Data Modelling to Support Forestry Decisions. and Digital Repositories for Improved Forest Conservation
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Species Distribution Modelling
+- GIS for Natural Resource Management
+- Conservation-focused Digital Libraries
+- Information Policies for Forestry and Environmental Sectors
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MSc in Forestry
+    institution: University of British Columbia
+    year: 2020
+  - course: Master of Library and Information Studies
+    institution: University of British Columbia
+    year: 2019
+  - course: BA Political SScience (First Class Hons)
+    institution: University of Ghana
     year: 2008
 
 # Social/Academic Networking
@@ -44,13 +46,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: '#contact'  # For a direct email link, use "mailto:s.ola@alumni.ubc.ca".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/sola29/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://orcid.org/0000-0002-8953-3318
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
